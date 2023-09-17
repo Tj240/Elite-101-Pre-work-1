@@ -19,6 +19,7 @@ else:
   print('well i hope i make it better')
   
 choice = ""
+print('how can i help you today')
 print()
 print('please choose following options. ')
 
